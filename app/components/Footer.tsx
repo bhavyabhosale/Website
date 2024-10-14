@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link"; // Import Link for navigation
 import Logo from "../../public/assets/Logo.svg";
-import LinkedIn from "../../public/assets/LinkedIn.svg"; // Ensure this path is correct
+import LinkedIn from "../../public/assets/Linkedin.svg"; // Ensure this path is correct
 import Instagram from "../../public/assets/Instagram.svg"; // Ensure this path is correct
 import Email from "../../public/assets/Email.svg"; // Ensure this path is correct
 
